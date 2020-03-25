@@ -23,6 +23,8 @@ everything in between begin and end is a comment
 =end
 # make sure to have variable names start with lowercase as using uppercase can cause issues because they may have different meanings
 name = "Jeric"
+
+puts name.downcase.reverse.upcase
 my_age = 19
 
 sum = 13 + 379
