@@ -13,3 +13,11 @@ print "Oxnard Montalvo"
 
 puts "Jeric".length
 puts "Jeric".reverse
+
+puts "Jeric".upcase
+puts "Jeric".downcase
+# Comments are kinda the same from python
+
+=begin
+everything in between begin and end is a comment
+=end
