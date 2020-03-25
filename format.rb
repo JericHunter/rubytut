@@ -8,3 +8,7 @@ last_name.capitalize!
 print "What city are you from? "
 city = gets.chomp
 city.capitalize!
+
+print "What state or province are you from? "
+state = gets.chomp
+state.upcase!
